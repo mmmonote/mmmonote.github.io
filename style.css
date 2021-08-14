@@ -1,8 +1,12 @@
 h1 {  
-  color: orange;    
-  background-color: teal;
-
+  color :navy;    
+  background-color:lightblue;
+  width: 400px;
 }
 body {
-    background-color: mediumpurple;
+    background-color:goldenrod;
+    font-family: 'MS UI Gothic',sans-serif;
+}
+li {
+
 }
